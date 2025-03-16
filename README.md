@@ -46,7 +46,7 @@ When the AutoUV mode is enabled, convenient controls appear in the scene view:
 
 ## Installation
 
-1. Import the Auto UV Scaler package into your Unity project
+1. Download the latest release package from the [Releases](https://github.com/roundyyy/Auto-UV-Scaler/releases) page and import to your Unity project
 2. Open the tool window via **Tools > Roundy > Auto UV Scaler**
 3. Start creating or modifying meshes for your level prototype
 
