@@ -2,6 +2,8 @@
 
 ![Demo](demo.gif)
 
+![Demo2](demo2.gif)
+
 A non-destructive UV mapping tool for quick level prototyping in Unity.
 
 ## Overview
